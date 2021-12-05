@@ -6,7 +6,7 @@ API ini dibuat dalam rangka berpartisipasi pada Open Proyek yang diselenggarakan
 npm install
 ```
 
-# Cara Menjalankan
+## Cara Menjalankan
 ```
 npm run start
 ```
